@@ -8,7 +8,7 @@
 
 ## Data Source: [BankChurners.csv](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
 
-## Data description:
+## Dataset Columns:
 - Client number: Unique identifier for the customer holding the account
 Attrition: Internal event (customer activity) variable - if the account is closed then 1 else 0
 - Age: Demographic variable - Customer's Age in Years
