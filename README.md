@@ -1,12 +1,27 @@
-# Statistics_project
+# Group Project: Statistics_project
 
-## Title: 
+## Title: Bank Customers and Attrition  
 
 ## Team Members: Ayodeji, Shola, and Behrooz
 
-## Date: --.12.2020
+## Date: 12.12.2020
 
 ## Data Source: [BankChurners.csv](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
+
+### The story
+
+A manager at the bank is disturbed with more and more customers leaving their credit card services. They would really appreciate if one could predict for them who is gonna get churned so they can proactively go to the customer to provide them better services and turn customers' decisions in the opposite direction. This dataset consists of 10,000 customers mentioning their age, salary, marital_status, credit card limit, credit card category, etc. There are nearly 18 features.
+
+The problem:
+In the data set, only 16.07% of customers have churned. Thus, it could be a bit difficult to train the model to predict churning customers. Since the problem is customer attrition. we want to analyze the data to find out the reason behind this and leverage the same to predict customers who are likely to drop off.
+
+Suggested Objectives:
+	•	To find the correlation between the relevant numeric columns
+	•	The main determinants of attrition (logistic regression)
+	•	The relationship between type of credit card on attrition ( Logistic)
+	•	The relationship between different income categories on attrition (logistic)
+	•	The impact of dummy and binary variables (education and gender) on attrition 
+
 
 ## Dataset Columns:
 - Client number: Unique identifier for the customer holding the account
